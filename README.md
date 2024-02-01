@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is David and I'm a web developer from Munich, Germany. You can find my latest projects on my portfolio page https://david-maerkisch.netlify.app/ </p>
+<p align="left">My name is David and I'm a web developer from Munich, Germany. You can find my latest projects on my portfolio page </p>
+https://david-maerkisch.netlify.app/
 
 ###
 
