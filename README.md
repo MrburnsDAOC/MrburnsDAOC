@@ -11,7 +11,7 @@ https://david-maerkisch.netlify.app/
 
 ###
 
-<p align="left">✨ Creating bugs since January 2023.<br>🎯 Goals: become a better developer by the day!<br>💻Open for work!</p>
+<p align="left">✨ Creating bugs since January 2023.<br>🎯 Goals: become a better developer by the day!</p>
 
 ###
 
